@@ -1,0 +1,5 @@
+C:\Users\Simon-LAPTOP\source\repos\CoronaCup\CoronaCup.Repository\bin\Debug\netcoreapp3.1\CoronaCup.Repository.deps.json
+C:\Users\Simon-LAPTOP\source\repos\CoronaCup\CoronaCup.Repository\bin\Debug\netcoreapp3.1\CoronaCup.Repository.dll
+C:\Users\Simon-LAPTOP\source\repos\CoronaCup\CoronaCup.Repository\obj\Debug\netcoreapp3.1\CoronaCup.Repository.csprojAssemblyReference.cache
+C:\Users\Simon-LAPTOP\source\repos\CoronaCup\CoronaCup.Repository\obj\Debug\netcoreapp3.1\CoronaCup.Repository.AssemblyInfoInputs.cache
+C:\Users\Simon-LAPTOP\source\repos\CoronaCup\CoronaCup.Repository\obj\Debug\netcoreapp3.1\CoronaCup.Repository.AssemblyInfo.cs

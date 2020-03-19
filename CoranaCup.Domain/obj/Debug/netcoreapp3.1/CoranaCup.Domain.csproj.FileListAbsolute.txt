@@ -1,0 +1,5 @@
+C:\Users\Simon-LAPTOP\source\repos\CoronaCup\CoranaCup.Domain\bin\Debug\netcoreapp3.1\CoranaCup.Domain.deps.json
+C:\Users\Simon-LAPTOP\source\repos\CoronaCup\CoranaCup.Domain\bin\Debug\netcoreapp3.1\CoranaCup.Domain.dll
+C:\Users\Simon-LAPTOP\source\repos\CoronaCup\CoranaCup.Domain\obj\Debug\netcoreapp3.1\CoranaCup.Domain.csprojAssemblyReference.cache
+C:\Users\Simon-LAPTOP\source\repos\CoronaCup\CoranaCup.Domain\obj\Debug\netcoreapp3.1\CoranaCup.Domain.AssemblyInfoInputs.cache
+C:\Users\Simon-LAPTOP\source\repos\CoronaCup\CoranaCup.Domain\obj\Debug\netcoreapp3.1\CoranaCup.Domain.AssemblyInfo.cs
